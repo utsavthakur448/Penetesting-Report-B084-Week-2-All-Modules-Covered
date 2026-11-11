@@ -235,7 +235,7 @@ However, some sources require **API keys** — so the amount of information succ
 | 4 | Task 2 results — collected Microsoft-related hosts/subdomains | `task2-all-sources-results.png` |
 <img width="952" height="1040" alt="task2-all-sources-search png" src="https://github.com/user-attachments/assets/282b6bbe-790d-4b3a-b7eb-8dff99657f32" />
 <img width="961" height="1037" alt="task1-baidu-results png" src="https://github.com/user-attachments/assets/385f64c3-1b8f-4587-ba25-7a86371a358e" />
-<img width="927" height="664" alt="harverster" src="https://github.com/user-attachments/assets/3761a892-9b9b-406b-b125-f565062341a8" />
+<img width="752" height="664" alt="harverster" src="https://github.com/user-attachments/assets/64ec395c-5929-4240-a89a-43f75cf82bd9" />
 
 
 
