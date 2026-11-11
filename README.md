@@ -228,9 +228,13 @@ Every activity reinforced a core principle of ethical hacking: **a significant a
 ```
 
 
+<img width="1908" height="471" alt="curl command" src="https://github.com/user-attachments/assets/6437b626-6be2-439e-8355-e1290a4b7e2b" />
 
-<img width="650" height="513" alt="dns recon command" src="https://github.com/user-attachments/assets/e2927f70-5613-4ff1-9fce-f6cc5337e59e" />
-<img width="652" height="511" alt="curl-I command" src="https://github.com/user-attachments/assets/2f284d10-93e5-47cf-a791-5be456324ace" />
+<img width="1484" height="552" alt="whois command" src="https://github.com/user-attachments/assets/6334cc37-7477-4ff0-b772-4a9f04fb2bbf" />
+
+<img width="1623" height="606" alt="dnsrecon command" src="https://github.com/user-attachments/assets/f5a73dd6-0a81-43f5-946d-566af27221b1" />
+
+<img width="1408" height="465" alt="WAF command" src="https://github.com/user-attachments/assets/13ec9bdc-cbf1-4090-85bc-6102d08005fd" />
 
 
 
