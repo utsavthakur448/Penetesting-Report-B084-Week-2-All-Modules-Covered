@@ -19,6 +19,7 @@
 | Field | Details |
 |---|---|
 | **Project Title** | Penetration Testing – Footprinting, Information Gathering & Network Scanning |
+| **Batch** | B084-Networkwalks |
 | **Program** | Cybersecurity & Ethical Hacking Internship |
 | **Organization** | NetworkWalks |
 | **Week** | Week 2 |
