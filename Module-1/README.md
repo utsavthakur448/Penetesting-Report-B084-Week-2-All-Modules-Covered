@@ -69,7 +69,7 @@ whois networkwalks.com
 
 📸 *Screenshot: WHOIS output*
 
-<img width="640" height="512" alt="who is command" src="https://github.com/user-attachments/assets/aa55893a-9442-4c2a-8970-346d6c68df1f" />
+<img width="1484" height="552" alt="whois command" src="https://github.com/user-attachments/assets/97c17a73-a877-4a62-a1b2-c8c69d186815" />
 
 </div>
 
@@ -88,7 +88,7 @@ whatweb networkwalks.com
 
 📸 *Screenshot: WhatWeb output*
 
-<img width="643" height="514" alt="whatweb command" src="https://github.com/user-attachments/assets/7e662b87-a4aa-4a1e-b9f4-6080ea7e5e49" />
+<img width="1918" height="442" alt="whatweb command" src="https://github.com/user-attachments/assets/83da5540-95a3-4a09-9fc7-dcdb0adce313" />
 
 
 </div>
@@ -108,7 +108,7 @@ nslookup networkwalks.com
 
 📸 *Screenshot: Nslookup output*
 
-<img width="643" height="512" alt="nslookup command" src="https://github.com/user-attachments/assets/76d17307-b08c-4891-bb34-8f4135233a06" />
+<img width="1251" height="238" alt="nslookup command" src="https://github.com/user-attachments/assets/d9f777e0-ea4f-4053-92a3-8208ea0105bf" />
 
 
 </div>
@@ -128,7 +128,7 @@ curl -I https://networkwalks.com
 
 📸 *Screenshot: curl output*
 
-<img width="652" height="511" alt="curl-I command" src="https://github.com/user-attachments/assets/44daa7ee-f8bd-46a0-9300-538f2c68ab5d" />
+<img width="1908" height="471" alt="curl command" src="https://github.com/user-attachments/assets/23fb67d1-5d51-4b0e-b58c-e0e22eff7821" />
 
 
 </div>
@@ -148,7 +148,7 @@ wafw00f networkwalks.com
 
 📸 *Screenshot: Wafw00f output*
 
-<img width="644" height="430" alt="waf command" src="https://github.com/user-attachments/assets/bf6b3faf-32b7-4105-9d79-9b8ccfb0aa61" />
+<img width="1408" height="465" alt="WAF command" src="https://github.com/user-attachments/assets/3d6d86f5-86e9-4084-8a2e-6cbccd65c168" />
 
 </div>
 
@@ -167,7 +167,7 @@ dnsrecon -d networkwalks.com
 
 📸 *Screenshot: DNSRecon output*
 
-<img width="650" height="513" alt="dns recon command" src="https://github.com/user-attachments/assets/43c50888-cbfb-4677-aca2-a1bd7ef37350" />
+<img width="1623" height="606" alt="dnsrecon command" src="https://github.com/user-attachments/assets/756af947-914a-4a10-b693-531171ff74ff" />
 
 
 </div>
